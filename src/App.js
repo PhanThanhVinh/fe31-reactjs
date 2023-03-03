@@ -6,6 +6,7 @@ import Footer, { name, className } from "./Footer";
 
 function App() {
   const abc = "abc";
+  const abc = "abc";
   return (
     <div className="wrapper">
       <Header />
